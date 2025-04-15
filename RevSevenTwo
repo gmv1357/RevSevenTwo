@@ -1,0 +1,96 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RevSevenTwo</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #111;
+      color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #1b1b1b;
+      padding: 1.5rem;
+      text-align: center;
+      border-bottom: 2px solid #444;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+      letter-spacing: 1px;
+    }
+    .mission {
+      padding: 2rem;
+      text-align: center;
+      border-bottom: 2px solid #444;
+    }
+    .mission p {
+      max-width: 700px;
+      margin: auto;
+      font-size: 1.2rem;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+      padding: 1rem;
+      background: #1a1a1a;
+      border-bottom: 2px solid #333;
+    }
+    nav a {
+      color: #7fdbff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #1b1b1b;
+      border-top: 2px solid #444;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>RevSevenTwo</h1>
+  </header>  <div class="mission">
+    <p>
+      Welcome to RevSevenTwo. This site is a living testimony and a warning. It exposes hidden darkness and reveals the truth that has been buried for far too long. It is a call to return to Jesus Christ, the only truth, the only way, the only life. We were deceived — and now we fight back with light.
+    </p>
+  </div>  <nav>
+    <a href="#timeline">Timeline</a>
+    <a href="#mkultra">MKULTRA & Ritual Abuse</a>
+    <a href="#kurt">Kurt Cobain</a>
+    <a href="#occult">Occult Symbolism</a>
+    <a href="#evidence">Evidence Archive</a>
+  </nav>  <section id="timeline">
+    <h2>Timeline of Events</h2>
+    <p>[Insert detailed timeline of interlinked events, patterns, and synchronicities]</p>
+  </section>  <section id="mkultra">
+    <h2>MKULTRA & Ritual Abuse</h2>
+    <p>[Include your personal testimony, documentation, survivor links, etc.]</p>
+  </section>  <section id="kurt">
+    <h2>The Truth About Kurt Cobain</h2>
+    <p>[Break down hidden lyrics, symbols, and suspicious circumstances surrounding his death]</p>
+  </section>  <section id="occult">
+    <h2>Occult Symbolism & Foreshadowing</h2>
+    <p>[Decode mainstream media, films, dates, and Masonic references]</p>
+  </section>  <section id="evidence">
+    <h2>Evidence Archive</h2>
+    <p>[Images, PDFs, links to videos, testimony clips, external references]</p>
+  </section>  <footer>
+    &copy; 2025 RevSevenTwo. All glory to Jesus Christ.
+  </footer>
+</body>
+</html>
